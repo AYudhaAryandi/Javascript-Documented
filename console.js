@@ -1,0 +1,1 @@
+console.log("Halo"); //untuk menampilkan data di konsol browser
