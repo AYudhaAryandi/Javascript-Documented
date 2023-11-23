@@ -5,4 +5,4 @@
 let jajan = prompt("harga jajan kamu");
 alert ("kamu membeli jajan dengan harga " +jajan)
 
-// prompt agak logic jika untuk anda yang baru belajar bagaimana agar Mengeluarkan output dengan hasil yang kamu mau
+// prompt agak logic jika buat yang baru belajar bagaimana agar Mengeluarkan output dengan hasil yang kamu mau
