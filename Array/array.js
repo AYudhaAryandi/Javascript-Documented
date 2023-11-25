@@ -16,5 +16,5 @@ alert(namaJajan);
 
 //ketika kita masukan ".push" maka akan mengeluarkan output ("chitato,eskrim,coklat,wafer,pie") kenapa bertambah menjadi 5 value? karena sudah menambahkan "wafer,pie" ke dalam array yang kita isi pertama
 
-//jika kita memakai .shift maka akan keluar output ("eskrim,coklat,wafer,pie")
+//jika kita memakai .shift maka akan keluar output ("eskrim,coklat,wafer ,pie")
 //jika kita memakai .pop maka akan keluar output ("chitato,eskrim,coklat,wafer")
